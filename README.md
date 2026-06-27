@@ -4,25 +4,22 @@ Engineer, product builder, systems architect.
 
 I build products and infrastructure that solve real pain points. Lately I have been focused on agentic harnesses for real-world workflows: coding, support, commerce, sales, infra, and operations.
 
-Previously, I worked on crypto governance infrastructure at Agora, helping build systems used by Optimism, ENS, Uniswap, Nouns, and others.
-
-## Start Here
+## Recent
 
 - [Vera](https://agent-vera.com/) - PM and engineering agent for Slack, Linear, and GitHub.
+- [Oncaller](https://github.com/stepandel/oncaller) - agent that investigates Sentry issues and escalates only when needed.
+- [Assemblio](https://github.com/stepandel/assemblio) - control plane for fleets of self-modifying AI agents.
 - [Agentic Commerce Kit](https://github.com/stepandel/agentic-commerce-kit) - make stores discoverable and purchasable by AI agents.
+- [Agentic Compute Store](https://github.com/stepandel/compute-store) - rent temporary Linux machines through agent-native payments.
 - [VirtualHost](https://youtu.be/3pKax01f33U) - restaurant phone agent, YC AgentPhone Hackathon winner.
+- [Discovery Calls Co-Pilot](https://github.com/stepandel/sales-co-pilot) - local sales-call co-pilot that suggests better questions in real time.
 - [Tickets.md](https://github.com/stepandel/tickets.md) - git-native ticket tracker with agent automation.
-- [Chroma Explorer](https://chroma-explorer.com) / [Pinecone Explorer](https://github.com/stepandel/pinecone-explorer) - desktop tools for vector databases.
+- [OpenClaw Linear](https://github.com/stepandel/openclaw-linear) and [AgentMail CLI](https://github.com/stepandel/agentmail-cli) - agent workflow tools.
 
-## More Projects
+## Previous
 
-**Agents:** [Oncaller](https://github.com/stepandel/oncaller), [Assemblio](https://github.com/stepandel/assemblio), [Discovery Calls Co-Pilot](https://github.com/stepandel/sales-co-pilot), [Agentic Compute Store](https://github.com/stepandel/compute-store), [OpenClaw Linear](https://github.com/stepandel/openclaw-linear), [AgentMail CLI](https://github.com/stepandel/agentmail-cli)
-
-**Governance:** [Agora](https://agora.xyz), [Optimism Atlas](https://atlas.optimism.io), Gamenaut
-
-**Earlier builds:** Great Chinese Firewall Bridge, PawCharge, Levitating Drill
+At [Agora](https://agora.xyz), I helped build crypto governance infrastructure used by Optimism, ENS, Uniswap, Nouns, and others. I also worked on [Optimism Atlas](https://atlas.optimism.io), an end-to-end governance and grants platform for the Optimism Collective.
 
 ## Interests
 
 AI agents, memory systems, developer tools, protocol infrastructure, robotics, simulation, and edge AI.
-

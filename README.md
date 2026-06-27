@@ -1,4 +1,4 @@
-# Stepan Arsentjev
+# Hi, I'm Stepan
 
 Engineer, product builder, systems architect.
 

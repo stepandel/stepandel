@@ -14,7 +14,7 @@ I build products and infrastructure that solve real pain points. Lately I have b
 - [Assemblio](https://github.com/stepandel/assemblio) - control plane for fleets of self-modifying AI agents.
 - [Tickets.md](https://github.com/stepandel/tickets.md) - git-native ticket tracker with agent automation.
 - [Vera](https://agent-vera.com/) - PM and engineering agent for Slack, Linear, and GitHub.
-- [OpenClaw Linear](https://github.com/stepandel/openclaw-linear) and [AgentMail CLI](https://github.com/stepandel/agentmail-cli) - agent workflow tools.
+- [OpenClaw Linear](https://github.com/stepandel/openclaw-linear), [AgentMail CLI](https://github.com/stepandel/agentmail-cli), and [Clawup](https://github.com/stepandel/clawup) - agent workflow tools.
 
 ## Previous
 

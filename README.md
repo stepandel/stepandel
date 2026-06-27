@@ -18,4 +18,4 @@ I build products and infrastructure that solve real pain points. Lately I have b
 
 ## Previous
 
-At [Agora](https://agora.xyz), I helped build crypto governance infrastructure used by Optimism, ENS, Uniswap, Nouns, and others. I also worked on [Optimism Atlas](https://atlas.optimism.io), an end-to-end governance and grants platform for the Optimism Collective.
+At [Agora](https://agora.xyz), I helped build voting / governance infrastructure used by Optimism, ENS, Uniswap, Nouns, and others. I also worked on [Optimism Atlas](https://atlas.optimism.io), an end-to-end governance and grants platform for the Optimism Collective.

@@ -4,6 +4,10 @@ Engineer, product builder, systems architect.
 
 I build products and infrastructure that solve real pain points. Lately I have been focused on agentic harnesses for real-world workflows: coding, support, commerce, sales, infra, and operations.
 
+## Current
+
+- [Cantelop](https://console.cantelop.dev) - platform for running agents. [SDK](https://github.com/stepandel/cantelop-sdk).
+
 ## Recent
 
 - 🛒 [Agentic Commerce Kit](https://github.com/stepandel/agentic-commerce-kit) - make stores discoverable and purchasable by AI agents.

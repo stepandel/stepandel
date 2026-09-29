@@ -6,7 +6,7 @@ I build products and infrastructure that solve real pain points. Lately I have b
 
 ## Current
 
-- [Cantelop](https://console.cantelop.dev) - platform for running agents. [SDK](https://github.com/stepandel/cantelop-sdk).
+- [Cantelop](https://cantelop.com) - platform for running agents. [SDK](https://github.com/stepandel/cantelop-sdk).
 
 ## Recent
 

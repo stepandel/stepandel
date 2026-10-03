@@ -2,7 +2,7 @@
 
 Engineer, product builder, systems architect.
 
-I build products and infrastructure that solve real pain points. Lately I have been focused on agentic harnesses for real-world workflows: coding, support, commerce, sales, infra, and operations.
+I build products and infrastructure that solve real pain points. Lately I have been focused on the infrastructure that poweres agentic harnesses for real-world workflows: coding, support, commerce, sales, infra, and operations.
 
 ## Current
 
